@@ -8,6 +8,16 @@
 |-- 5_Structured_주차수요예측_LH(진행중_Unopened)
 ```
 
+```
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/haenara-shin/DACON.git
+git push -u origin main
+```
+
+
 # 1_ComputerVision_EMNIST(2020.July-2020.Aug)(완료)
 - UCSD 서버 이용했지만 코드 저장을 안해서 삭제됨.
 - Private 49th among 1185 participants

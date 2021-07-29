@@ -24,5 +24,5 @@ git push -u origin main
 
 # 2_TimeSeries_태양광발전량예측_KAERI_NREL(2021.July)(완료)
 - Google ColabPro 이용
-- NREL ML 과제 대응 (실제 코드 및 데이터 공개 불가)
-- Private 3rd or 4th among 1894 participants
+- N*** ML 과제 대응 (실제 코드 및 데이터 공개 불가)
+- Private 2nd among 1894 participants on the DACON scale
